@@ -50,8 +50,6 @@ conda install git
 ```bash
 git clone https://github.com/MMIV-ML/ELMED219-2021
 cd ELMED219-2021
-# git clone https://github.com/MMIV-ML/ELMED219-dev
-# cd ELMED219-dev
 ```
 ### Configure the Python-environment:
 ```bash
@@ -74,7 +72,7 @@ Go through the notebook `0.0-test-installation.ipynb` in the `test-notebooks`-di
 cd test-notebooks
 jupyter notebook  (or, jupyter lab)
 ```
-.
+
 
 ## Update:
 The code and environment will be updated during the course. Run the following commands regularly:
