@@ -67,9 +67,9 @@ python -m ipykernel install --user --name elmed219-2021 --display-name "ELMED219
 ```
 
 ### Test you installation:
-Go through the notebook `0.0-test-installation.ipynb` in the `test-notebooks`-directory:
+Go through the notebook `0.0-test.ipynb` in the `notebooks`-directory:
 ```bash
-cd test-notebooks
+cd notebooks
 jupyter notebook  (or, jupyter lab)
 ```
 
