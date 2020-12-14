@@ -68,22 +68,6 @@ conda activate elmed219-2021
 python -m ipykernel install --user --name elmed219-2021 --display-name "ELMED219-2021"
 ```
 
-### Optionally - install notebook extension ipywidgets
-```bash
-jupyter nbextension enable --py --sys-prefix widgetsnbextension
-```
-
-### Optionally - install Jupyter extensions
-These are useful to have nice tables of contents in the notebooks, but they are not required
-```bash
-conda install -n elmed219-2021 -c conda-forge jupyter_contrib_nbextensions
-```
-
-### Optionally - Jupyter Lab
-You can (preferably) consider to use [JupyterLab](https://github.com/jupyterlab/jupyterlab), i.e. `> jupyter lab` <br>
-(in addition to or insted of the `> jupyter notebook`)
-
-
 ### Test you installation:
 Go through the notebook `0.0-test-installation.ipynb` in the `test-notebooks`-directory:
 ```bash
