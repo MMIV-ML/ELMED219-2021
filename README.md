@@ -38,7 +38,7 @@ ______________________________________________________
 |10:15-12:00 | About the course / Motivation lectures                    |  Join in Zoom |
 |            | *Arvid Lundervold / Alexander Selvikvåg Lundervold*       |               |
 |**Wed, January 6**|                                                 |               |
-|10:15-12:00 | Project work, teams, and tools (GitHub, DataCamp, Overleaf, Slack)  | Join in Zoom  |
+|10:15-12:00 | Project work, teams, and tools (GitHub, DataCamp, Overleaf, Discord)  | Join in Zoom  |
 |            | *Arvid Lundervold / Alexander Selvikvåg Lundervold*       |               |
 |**Thu, January 7**|                                               |               |
 |10:15-11:00 | LAB 0: Introduction to theory and tools for machine learning     | Join in Zoom  |
