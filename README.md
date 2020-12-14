@@ -31,22 +31,22 @@ ______________________________________________________
 
 | Time       |  Activity                                                 |    Zoom       |
 |------------|-----------------------------------------------------------|---------------|
-|**Monday, January 4**|                                                  |               |
+|**Mon, January 4**|                                                  |               |
 | On your own | Installation of software / Get an overview of the course |               |
 |            | Check online resources                                    |               |
-|**Tuesday, January 5**|                                                  |               |
+|**Tue, January 5**|                                                  |               |
 |10:15-12:00 | About the course / Motivation lectures                    |  Join in Zoom |
 |            | *Arvid Lundervold / Alexander Selvikvåg Lundervold*       |               |
-|**Wednesday, January 6**|                                                 |               |
+|**Wed, January 6**|                                                 |               |
 |10:15-12:00 | Project work, teams, and tools (GitHub, DataCamp, Overleaf, Slack)  | Join in Zoom  |
 |            | *Arvid Lundervold / Alexander Selvikvåg Lundervold*       |               |
-|**Thursday, January 7**|                                               |               |
+|**Thu, January 7**|                                               |               |
 |10:15-11:00 | LAB 0: Introduction to theory and tools for machine learning     | Join in Zoom  |
 |            | *Alexander Selvikvåg Lundervold*                          |               |
 |11:15-12:00 | Brain imaging (MRI) and glioblastoma                      |               |
 |            | *Arvid Lundervold*                                        |               |
 |            |                                                           |               |
-|**Friday, January 8**| (teaching material from the [Seili-2020 Summer school](https://github.com/oercompbiomed/Seili-2020))      |               |
+|**Fri, January 8**| (teaching material from the [Seili-2020 Summer school](https://github.com/oercompbiomed/Seili-2020))      |               |
 | On your own | Workshop: Machine learning notebooks - walkthroughs by *Peder Lillebostad*      |      |
 |           | [[recording 1](https://drive.google.com/file/d/1bn6nV7Lsi9OHkS2RHuhFU7ABSyuzDdKr/view?usp=sharing)] [[recording 2](https://drive.google.com/file/d/1jqJ8X01H7BuwsudeipPd0kicyzc_dHfS/view?usp=sharing)] [[recording 3](https://drive.google.com/file/d/1pciRGPVmQmlHYxpgcAumPBrPs0nOH7cF/view?usp=sharing)] |        |
 |            | Unsupervised image classification to analyse brain cancer [[slides](https://docs.google.com/presentation/d/e/2PACX-1vRFPferC_QH6LSC-SKDphXjAdNB0O67oDg-B7dtg_YOie6foM39UHijs9XfhNDF-hwBXYbtaOcI-8SV/pub?start=false&loop=false&delayms=3000)]  &                   |               |
@@ -58,31 +58,31 @@ ______________________________________________________
 |             | See also the [KUBIAC](https://blogs.uef.fi/kubiac)'s:                            |         |
 |            |*Neural networks tutorial for medical image analysis* [[here](https://github.com/Hierakonpolis/NN4Kubiac)] |   |
 |            |                                                           |               |
-|**Monday, January 11**|                                                 |               |
+|**Mon, January 11**|                                                 |               |
 |10:15-11:00 | LAB 1: Medical health records, predicting length of stay         | Join in Zoom  |
 |            | *Alexander Selvikvåg Lundervold*                          |               |
 |            |                                                           |               |
-|**Tuesday, January 12**|                                                |               |
+|**Tue, January 12**|                                                |               |
 |10:15-11:00 | Quick introduction to deep learning                       | Join in Zoom  |
 |            | *Alexander Selvikvåg Lundervold*                          |               |
 |11:15-12:00 | LAB 2: MEDNIST and deep learning                          |               |
 |            |                                                           |               |
-|**Thursday, January 14**|                                               |               |
+|**Thu, January 14**|                                               |               |
 |10:15-11:00 | LAB 3: BRATS and multimodal MRI                           | Join in Zoom  |
 |            | *Arvid Lundervold*                                        |               |
 |            |                                                           |               |
-|**Monday, January 18**|                                                 |               |
+|**Mon, January 18**|                                                 |               |
 |10:15-12:00 | Perspectives on medical AI:                               | Join in Zoom  |
 |            |  explainable AI, innovation, and ethics                   |               |
 |            | *Arvid Lundervold / Alexander Selvikvåg Lundervold*       |               |
 |            |                                                           |               |
-|**Wednesday, January 27** |                                             |               |
+|**Wed, January 27** |                                             |               |
 |--- 17:00 ---| Project report due (by team)                              |               |
 |            |                                                           |               |
-|**Thursday, January 28** |                                              |               |
+|**Thu, January 28** |                                              |               |
 |10:15-12:00 | Google slides presentations (15 min) by team              | Join in Zoom  |
 |            |                                                           |               |
-|**Friday, January 29**|                                                 |               |
+|**Fri, January 29**|                                                 |               |
 |10:15-11:00 | Digital MCQ  home exam                                    | Inspera       |
 
 
