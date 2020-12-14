@@ -1,5 +1,7 @@
-# ELMED219-2021 / Artificial intelligence and computational medicine  
-(--> [ELMED219 21V](https://mitt.uib.no/courses/27607))
+## ELMED219-2021 (*work in progress*)
+# Artificial intelligence and computational medicine
+
+(MittUiB: [ELMED219 21V](https://mitt.uib.no/courses/27607))
 
 The [course](https://www.uib.no/en/course/ELMED219) belongs to the [Department of Biomedicine](https://www.uib.no/biomedisin) and is associated with the [Department of Computer science, Electrical engineering and Mathematical sciences](https://www.hvl.no/en/about/management/faculty-of-engineering-and-science/department-of-computer-science-electrical-engineering-and-mathematical-sciences-ny-side), Western Norway University of Applied Sciences, and [Mohn Medical Imaging and Visualization Center](https://mmiv.no/).
 
@@ -25,10 +27,13 @@ For **practical / administrative inquiries**, contact the Studies Section at the
 
 ______________________________________________________
 
-# Tentative time schedule 
+# <u>Tentative</u> time schedule
 
 | Time       |  Activity                                                 |    Zoom       |
 |------------|-----------------------------------------------------------|---------------|
+|**Monday, January 4**|                                                  |               |
+| On your own | Installation of software / Get an overview of the course |               |
+|            | Check online resources                                    |               |
 |**Tuesday, January 5**|                                                  |               |
 |10:15-12:00 | About the course / Motivation lectures                    |  Join in Zoom |
 |            | *Arvid Lundervold / Alexander Selvikvåg Lundervold*       |               |
@@ -46,9 +51,8 @@ ______________________________________________________
 |           | [[recording 1](https://drive.google.com/file/d/1bn6nV7Lsi9OHkS2RHuhFU7ABSyuzDdKr/view?usp=sharing)] [[recording 2](https://drive.google.com/file/d/1jqJ8X01H7BuwsudeipPd0kicyzc_dHfS/view?usp=sharing)] [[recording 3](https://drive.google.com/file/d/1pciRGPVmQmlHYxpgcAumPBrPs0nOH7cF/view?usp=sharing)] |        |
 |            | Unsupervised image classification to analyse brain cancer [[slides](https://docs.google.com/presentation/d/e/2PACX-1vRFPferC_QH6LSC-SKDphXjAdNB0O67oDg-B7dtg_YOie6foM39UHijs9XfhNDF-hwBXYbtaOcI-8SV/pub?start=false&loop=false&delayms=3000)]  &                   |               |
 |            | Neural networks in man and machine [[slides](https://docs.google.com/presentation/d/e/2PACX-1vQsnIaPS6NSfKBm6RAZnMcibfLewWT9C4n4UjaJhuht_we6tgVpN052ZhzuoHZpSODiFUbDsf9pcmXM/pub?start=false&loop=false&delayms=3000)] [[recording](https://drive.google.com/file/d/1kvjERDZUl8pVMCJ_JfUrED9yPMJPm9Yf/view?usp=sharing)]      |               |
-|            | *Peder Lillebostad / Arvid Lundervold, University of Bergen* |  | 
-|            |                                                           |               |
-|.       | (teaching material from the [Seili-2020 Summer school](https://github.com/oercompbiomed/Seili-2020))      |               |
+|            | *Peder Lillebostad / Arvid Lundervold, University of Bergen* |  |
+|       | (teaching material from the [Seili-2020 Summer school](https://github.com/oercompbiomed/Seili-2020))      |               |
 | On your own  | Workshop: Image data analysis cont. - Deep learning [[recording](https://drive.google.com/file/d/1c9tUov2yFSbvjhaAyl9RFv-urQVhR0EK/view?usp=sharing)]      |      |
 |            | *Peder Lillebostad, University of Bergen* |               |
 |             | See also the [KUBIAC](https://blogs.uef.fi/kubiac)'s:                            |         |
@@ -172,4 +176,3 @@ Also, for those of you that have limited knowledge about biology and pathology o
 
 
 __________________________________________________________________________
-

@@ -1,0 +1,29 @@
+name: elmed219-2021
+dependencies:
+- python >= 3.8.0
+- pip
+- ipython
+- ipywidgets
+- jupyter
+- git
+- numpy
+- matplotlib
+- pandas
+- scikit-learn >= 0.23
+- ipykernel
+- scipy
+- seaborn
+- scikit-image
+- imageio
+- conda-forge::jupyter_contrib_nbextensions
+- conda-forge::jupyterlab
+- conda-forge::statsmodels
+- pip:
+  - pip >= 20.0
+  - kaggle
+  - xlrd
+  - eli5
+  - pdpbox
+  - nibabel
+  - nilearn
+  - opencv-python
