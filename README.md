@@ -113,7 +113,7 @@ _Note: Details will be modified and added before the course start_
 - **LaTeX template for the report** illustrated with a group project report from the 2019 Summer School at Seili for which *Prostate Cancer* was the topic (see this [link](https://www.overleaf.com/read/xwjxwcnpzhqv)). We will be using the [Overleaf](https://www.overleaf.com) online, collaborative LaTeX editor (for more information on LaTeX, see [here](https://en.wikipedia.org/wiki/LaTeX) and [here](https://www.tug.org/pracjourn/2007-4/senthil/senthil.pdf) and [here](https://mildopinions.wordpress.com/2008/07/07/why-i-use-latex-in-biology), and for LeTeX templates, see e.g. [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-molecular-systems-biology/kyxgttpbzhht) and [here](https://www.overleaf.com/latex/templates/tagged/academic-journal))
 
 
-Also, for those of you that have limited knowledge about biology and pathology of brain or want to refresh their knowledge, we recommend the free Coursera course https://www.coursera.org/learn/neurobiology[[brain tumors](https://www.coursera.org/lecture/neurobiology/brain-tumors-fUcn4)]. 
+Also, for those of you that have limited knowledge about biology and pathology of brain or want to refresh their knowledge, we recommend the free Coursera course https://www.coursera.org/learn/neurobiology, especially the lecture on [brain tumors](https://www.coursera.org/lecture/neurobiology/brain-tumors-fUcn4). 
 
 
 - **Pre reading**
