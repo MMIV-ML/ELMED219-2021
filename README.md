@@ -46,17 +46,8 @@ ______________________________________________________
 |11:15-12:00 | Brain imaging (MRI) and glioblastoma                      |               |
 |            | *Arvid Lundervold*                                        |               |
 |            |                                                           |               |
-|**Fri, January 8**| (teaching material from the [Seili-2020 Summer school](https://github.com/oercompbiomed/Seili-2020))      |               |
-| On your own | Workshop: Machine learning notebooks - walkthroughs by *Peder Lillebostad*      |      |
-|           | [[recording 1](https://drive.google.com/file/d/1bn6nV7Lsi9OHkS2RHuhFU7ABSyuzDdKr/view?usp=sharing)] [[recording 2](https://drive.google.com/file/d/1jqJ8X01H7BuwsudeipPd0kicyzc_dHfS/view?usp=sharing)] [[recording 3](https://drive.google.com/file/d/1pciRGPVmQmlHYxpgcAumPBrPs0nOH7cF/view?usp=sharing)] |        |
-|            | Unsupervised image classification to analyse brain cancer [[slides](https://docs.google.com/presentation/d/e/2PACX-1vRFPferC_QH6LSC-SKDphXjAdNB0O67oDg-B7dtg_YOie6foM39UHijs9XfhNDF-hwBXYbtaOcI-8SV/pub?start=false&loop=false&delayms=3000)]  &                   |               |
-|            | Neural networks in man and machine [[slides](https://docs.google.com/presentation/d/e/2PACX-1vQsnIaPS6NSfKBm6RAZnMcibfLewWT9C4n4UjaJhuht_we6tgVpN052ZhzuoHZpSODiFUbDsf9pcmXM/pub?start=false&loop=false&delayms=3000)] [[recording](https://drive.google.com/file/d/1kvjERDZUl8pVMCJ_JfUrED9yPMJPm9Yf/view?usp=sharing)]      |               |
-|            | *Peder Lillebostad / Arvid Lundervold, University of Bergen* |  |
-|       | (teaching material from the [Seili-2020 Summer school](https://github.com/oercompbiomed/Seili-2020))      |               |
-| On your own  | Workshop: Image data analysis cont. - Deep learning [[recording](https://drive.google.com/file/d/1c9tUov2yFSbvjhaAyl9RFv-urQVhR0EK/view?usp=sharing)]      |      |
-|            | *Peder Lillebostad, University of Bergen* |               |
-|             | See also the [KUBIAC](https://blogs.uef.fi/kubiac)'s:                            |         |
-|            |*Neural networks tutorial for medical image analysis* [[here](https://github.com/Hierakonpolis/NN4Kubiac)] |   |
+|**Fri, January 8**| (teaching material from DataCamp)      |               |
+| On your own | _To be added_   |      |
 |            |                                                           |               |
 |**Mon, January 11**|                                                 |               |
 |10:15-11:00 | LAB 1: Medical health records, predicting length of stay         | Join in Zoom  |
@@ -95,17 +86,14 @@ If you are used to work with computer installations and github you can go direct
 
 - **Python course material** at https://github.com/MMIV-ML/ELMED219-2021  – follow the instructions at [Setting up your system](setup.md) (`setup.md`) to get ready
 
-- **Browser** display and functionality might differ between browsers - we recommend using Google [Chrome](https://www.google.com/chrome) on all platforms
+- **Browser** display and functionality might differ between browsers - we recommend using Mozilla [Firefox](https://www.mozilla.org/en-US/firefox/new/) or Google [Chrome](https://www.google.com/chrome) on all platforms
 
 - **Jupyter notebooks** are used throughout the course being a web-based framework for developing and presenting code-based projects (take a look at https://youtu.be/HW29067qVWk and https://youtu.be/2eCHD6f_phE for introductions to Jupyter Notebooks).
 
 -  **Test your environment** [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more]: run through this notebook [`test-notebooks/0.0-test-installation.ipynb`](test-notebooks/0.0-test-installation.ipynb) to check that your environment is OK
 
-- Throughout the course you will work with notebooks that contain various material and programming tasks. We recommend that you *make a copy of our notebooks before you are editing them*. In this respect you might adopt the naming convention `my_[name_of_notebook].ipynb`. Remember also to start a new session with a `**git pull**` (things can have changed)
+- Throughout the course you will work with notebooks that contain various material and programming tasks. We recommend that you *make a copy of our notebooks before you edit them*. You can adopt the naming convention `my_[name_of_notebook].ipynb`. Remember also to start a new session with a `**git pull**` (things can have changed)
 
-
-If you are less experienced you may want to visit our interactive course material first (see link below). It contains video instruction on how to set up your computer for the course and introduction to programming as well as the notebooks exercises.  
-https://rise.articulate.com/share/Y-vw0ZckATqKqyh4u44c8p9YN-UEtr8r
 
 
 ______________________________________________________
