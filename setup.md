@@ -35,12 +35,7 @@ We recommend installing Python via the [Anaconda Distribution](https://www.anaco
 After the installation run `python --version` in a terminal window (in "Anaconda Prompt" if you are using Windows). If the output show "Python 3.8.x" (and "Anaconda") you are good to go.
 
 
-## Atom:
-Atom is a free and open-source text and source code editor for writing and editing text files e.g. YAML configuration files, Markdown files, JSON files, HTML files and others. By its developers it is called a "hackable text editor for the 21st Century" and is a useful tool in addition to the browser-based Jupyter notebook that we will use.
-You can also **render markdown files** (e.g. local README.md files): Packages -> Markdow Preview -> Toggle Preview.<br>
-Install Atom (Mac Windows Linux) from: https://flight-manual.atom.io/getting-started/sections/installing-atom
-
-# ITK-SNAP:
+## ITK-SNAP:
 ITK-SNAP is an open-source image analysis tool used to segment and label structures in 3D medical images. ITK-SNAP is supported on Mac, Windows and Linux and provides semi-automatic segmentation using active contour methods, as well as manual delineation and image navigation. You can read and interact with DICOM and NIFTI images, and plot time-course data. Download the newest release of ITK-SNAP at http://www.itksnap.org/pmwiki/pmwiki.php?n=Downloads.SNAP3
 
 ## GitHub:
