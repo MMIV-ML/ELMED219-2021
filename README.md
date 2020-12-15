@@ -74,7 +74,7 @@ ______________________________________________________
 |10:15-12:00 | Google slides presentations (15 min) by team              | Join in Zoom  |
 |            |                                                           |               |
 |**Fri, January 29**|                                                 |               |
-|10:15-11:00 | Digital MCQ  home exam                                    | Inspera       |
+|09:00-11:00 | Digital MCQ  home exam                                    | Inspera       |
 
 
 
