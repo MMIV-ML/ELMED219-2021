@@ -29,7 +29,7 @@ ______________________________________________________
 
 # <u>Tentative</u> time schedule
 
-| Time       |  Activity  (Note: access to links will be provided in due time)  |    Zoom       |
+| Time       |  Activity  <sub><sup>(Note: access to links will be provided in due time)</sup></sub>  |    Zoom       |
 |------------|-----------------------------------------------------------|---------------|
 |**Mon, January 4**|                                                  |               |
 | On your own | Installation of software / Get an overview of the course |               |
