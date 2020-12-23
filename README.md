@@ -64,7 +64,7 @@ ______________________________________________________
 |            |                                                           |               |
 |**Mon, January 18**|                                                 |               |
 |10:15-12:00 | Perspectives on medical AI:                               | Join in Zoom  |
-|            |  explainable AI, innovation, and ethics                   |               |
+|            |  explainable AI, innovation, and ethics  [[slides-ethics](https://docs.google.com/presentation/d/1Td39QF5LsRB_R4hA84FwJATpr6KoZm3PoteQEKbJMKY)]                 |               |
 |            | *Arvid Lundervold / Alexander Selvikvåg Lundervold*       |               |
 |            |                                                           |               |
 |**Wed, January 27** |                                             |               |
