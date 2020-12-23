@@ -35,7 +35,7 @@ ______________________________________________________
 | On your own | Installation of software / Get an overview of the course |               |
 |            | Check online resources                                    |               |
 |**Tue, January 5**|                                                  |               |
-|10:15-12:00 | About the course / Motivation lectures                    |  Join in Zoom |
+|10:15-12:00 | About the course / Motivation lectures     [[slides-CompMed](https://docs.google.com/presentation/d/1zIHhr-Bdd7Uicj_U8JLrY2mUUZkchb2poIB0jB0vnh0)]          |  Join in Zoom |
 |            | *Arvid Lundervold / Alexander Selvikvåg Lundervold*       |               |
 |**Wed, January 6**|                                                 |               |
 |10:15-12:00 | Project work, teams, and tools (GitHub, DataCamp, Overleaf, Discord)  | Join in Zoom  |
@@ -43,7 +43,7 @@ ______________________________________________________
 |**Thu, January 7**|                                               |               |
 |10:15-11:00 | LAB 0: Introduction to theory and tools for machine learning     | Join in Zoom  |
 |            | *Alexander Selvikvåg Lundervold*                          |               |
-|11:15-12:00 | Brain imaging (MRI) and glioblastoma                      |               |
+|11:15-12:00 | Brain imaging (MRI) and glioblastoma   [[slides](https://docs.google.com/presentation/d/1R5lfsxd7o4p2uZjZuVwlatNOz3vTPAKTkkH31QCp7XE)  |               |
 |            | *Arvid Lundervold*                                        |               |
 |            |                                                           |               |
 |**Fri, January 8**| (teaching material from DataCamp)      |               |
