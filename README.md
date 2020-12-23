@@ -43,7 +43,7 @@ ______________________________________________________
 |**Thu, January 7**|                                               |               |
 |10:15-11:00 | LAB 0: Introduction to theory and tools for machine learning     | Join in Zoom  |
 |            | *Alexander Selvikvåg Lundervold*                          |               |
-|11:15-12:00 | Brain imaging (MRI) and glioblastoma   [[slides](https://docs.google.com/presentation/d/1R5lfsxd7o4p2uZjZuVwlatNOz3vTPAKTkkH31QCp7XE)  |               |
+|11:15-12:00 | Brain imaging (MRI) and glioblastoma   [[slides](https://docs.google.com/presentation/d/1R5lfsxd7o4p2uZjZuVwlatNOz3vTPAKTkkH31QCp7XE)]  |               |
 |            | *Arvid Lundervold*                                        |               |
 |            |                                                           |               |
 |**Fri, January 8**| (teaching material from DataCamp)      |               |
@@ -59,7 +59,7 @@ ______________________________________________________
 |11:15-12:00 | LAB 2: MEDNIST and deep learning                          |               |
 |            |                                                           |               |
 |**Thu, January 14**|                                               |               |
-|10:15-11:00 | LAB 3: BRATS and multimodal MRI                           | Join in Zoom  |
+|10:15-11:00 | LAB 3: BRATS and multimodal MRI   [[slides](https://docs.google.com/presentation/d/1ujUR5_EzTIfn0p-aHs6FWTnxtlyxEjD3M2Am-dRsS7k)]  | Join in Zoom  |
 |            | *Arvid Lundervold*                                        |               |
 |            |                                                           |               |
 |**Mon, January 18**|                                                 |               |
