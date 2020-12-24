@@ -161,7 +161,7 @@ David G. Ellis [BraTS 2020 Tutorial](https://github.com/ellisdg/3DUnetCNN/tree/m
 
 ![Brain Tumor Segmentation (BraTS) Tutorial](https://github.com/ellisdg/3DUnetCNN/raw/master/legacy/doc/tumor_segmentation_illusatration.gif)
 
-**Ethics of artificial intelligence and machine learning** (some pointers)
+### Ethics of artificial intelligence and machine learning (some pointers)
 - Wikipedia [https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence]
 - Rigby MJ. Ethical Dimensions of Using Artificial Intelligence in Health Care. AMA Journal of Ethics, Feb 2019 [https://journalofethics.ama-assn.org/article/ethical-dimensions-using-artificial-intelligence-health-care/2019-02]
 - Morley J, Machado C, Burr C et al. The Debate on the Ethics of AI in Health Care: A Reconstruction and Critical Review (November 13, 2019). [https://ssrn.com/abstract=3486518]
