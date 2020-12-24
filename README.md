@@ -157,7 +157,8 @@ Also, for those of you that have limited knowledge about biology and pathology o
 - Lundervold AS, Lundervold A. An overview of deep learning in medical imaging focusing on MRI. Zeitschrift fur Medizinische Physik. 2019;29(2):102-127. [[link](https://www.sciencedirect.com/science/article/pii/S0939388918301181)] [[pdf](https://reader.elsevier.com/reader/sd/pii/S0939388918301181?token=F0F5572A8CA576BB20A27E381932486EAD2ECEAA5FEE098EAE183438F8BA7A989E8046160DDE10526E3698BD6D27784A)]
 
 
-David G. Ellis [BraTS 2020 Tutorial](https://github.com/ellisdg/3DUnetCNN/tree/master/examples/brats2020) 
+David G. Ellis [BraTS 2020 Tutorial](https://github.com/ellisdg/3DUnetCNN/tree/master/examples/brats2020) <br>
+
 ![Brain Tumor Segmentation (BraTS) Tutorial](https://github.com/ellisdg/3DUnetCNN/raw/master/legacy/doc/tumor_segmentation_illusatration.gif)
 
 **Ethics of artificial intelligence and machine learning** (some pointers)
