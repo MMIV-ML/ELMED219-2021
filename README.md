@@ -92,7 +92,7 @@ If you are used to work with computer installations and github you can go direct
 
 -  **Test your environment** [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more]: run through this notebook [`notebooks/0.0-test.ipynb`](notebooks/0.0-test.ipynb) to check that your environment is OK
 
-- Throughout the course you will work with notebooks that contain various material and programming tasks. We recommend that you *make a copy of our notebooks before you edit them*. You can adopt the naming convention `my_[name_of_notebook].ipynb`. Remember also to start a new session with a `**git pull**` (things can have changed)
+- Throughout the course you will work with notebooks that contain various material and programming tasks. We recommend that you *make a copy of our notebooks before you edit them*. You can adopt the naming convention `my_[name_of_notebook].ipynb`. Remember also to start a new session with a **`git pull`** (things can have changed)
 
 
 
