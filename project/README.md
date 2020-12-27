@@ -9,7 +9,7 @@
 ## Description
 Imagine that you are a group of established successful scientists that will team up to tackle an important biomedical and medical challenge. There is an open call for research proposals under a new umbrella program entitled “Artificial intelligence and computational (bio)medicine”, where your multidisciplinary group are aiming for a project on “Precision medicine and quantitative imaging in glioblastoma - a multiscale approach”.
 
-The focus of the assignment is **(i)** description of relevant imaging technologies and modalities - at different scales, **(ii)** proposal of imaging-derived biomarkers for glioblastoma, **(iii)** machine learning techniques for segmentation, classification, treatment stratification and prediction, **(iv)** the novelty and impact of your approach, and **(v)** the evaluation of the ethics of your project and a data management plan - and not so much the basic science of brain tumors per se.
+The focus of the assignment is **(i)** description of relevant imaging technologies and modalities - possibly at different scales, **(ii)** proposal of imaging-derived biomarkers for glioblastoma, **(iii)** machine learning techniques for segmentation, classification, treatment stratification and prediction, **(iv)** the novelty and expected impact of your approach, and **(v)** the evaluation of the ethics of your project together with a data management plan (and not so much the basic science of brain tumors per se).
 
 
 ## Organization of your report
@@ -33,19 +33,16 @@ The focus of the assignment is **(i)** description of relevant imaging technolog
 
 
 #### *Orient yourself in the material for the group project and how to use [LaTeX](https://www.latex-project.org) for writing your report*
-_Note: Details will be modified and added before the course start_
+<!-- _Note: Details will be modified and added before the course start_ -->
 
 
-- **LaTeX template for the report** illustrated with a group project report from the 2019 Summer School at Seili for which *Prostate Cancer* was the topic (see this [link](https://www.overleaf.com/read/xwjxwcnpzhqv)) can be found on Overleaf [[here](https://www.overleaf.com/project/5ec71af71aca320001385354)] and on the present repo as [[main.tex](./latex-template/main.tex)]  [[fig1](./latex-template/Fig1_The_process_of_autoEncoder.png)] [[fig2](./latex-template/Fig2_Overview_of_the_process.png)] resulting in [[pdf](./latex-template/Seili_2020_project_template.pdf)]
+- **LaTeX template for the report** (illustrated with a [project report](https://www.overleaf.com/read/xwjxwcnpzhqv) from the 2019 Summer School at Seili, for which *Prostate Cancer* was the topic) can be found on Overleaf [[here](https://www.overleaf.com/project/5ec71af71aca320001385354)] and on the present repo as [[main.tex](./latex-template/main.tex)]  [[fig1](./latex-template/Fig1_The_process_of_autoEncoder.png)] [[fig2](./latex-template/Fig2_Overview_of_the_process.png)] resulting in [[pdf](./latex-template/Seili_2020_project_template.pdf)]
 
 - We will be using the [Overleaf](https://www.overleaf.com) online, collaborative LaTeX editor (for more information on LaTeX, see [here](https://en.wikipedia.org/wiki/LaTeX) and [here](https://www.tug.org/pracjourn/2007-4/senthil/senthil.pdf) and [here](https://mildopinions.wordpress.com/2008/07/07/why-i-use-latex-in-biology), and for LeTeX templates, see e.g. [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-molecular-systems-biology/kyxgttpbzhht) and [here](https://www.overleaf.com/latex/templates/tagged/academic-journal))
 
 
 
-
 ### Some sources of information  (brain tumors - neuroimaging - AI - software & data)<br>
-
-
 
 
 #### Pre reading
