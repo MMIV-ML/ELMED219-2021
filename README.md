@@ -98,7 +98,7 @@ If you are used to work with computer installations and github you can go direct
 
 ______________________________________________________
 
-## *Prepare you and your computer for the group-wise project*
+## *Prepare you and your computer for the team-based project*
 
 ### "Precision medicine and quantitative imaging in glioblastoma"
 
