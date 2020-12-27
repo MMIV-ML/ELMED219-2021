@@ -1,7 +1,7 @@
 ## ELMED219-2021 (*work in progress*)
 # Artificial intelligence and computational medicine
 
-(MittUiB: [ELMED219 21V](https://mitt.uib.no/courses/27607); Students respository (by invitation only): [here](https://github.com/MMIV-ML/ELMED219-2021-students))
+(MittUiB: [ELMED219 21V](https://mitt.uib.no/courses/27607))  Students respository (by invitation only): [[here](https://github.com/MMIV-ML/ELMED219-2021-students)]
 
 The [course](https://www.uib.no/en/course/ELMED219) belongs to the [Department of Biomedicine](https://www.uib.no/biomedisin) and is associated with the [Department of Computer science, Electrical engineering and Mathematical sciences](https://www.hvl.no/en/about/management/faculty-of-engineering-and-science/department-of-computer-science-electrical-engineering-and-mathematical-sciences-ny-side), Western Norway University of Applied Sciences, and [Mohn Medical Imaging and Visualization Center](https://mmiv.no/).
 
@@ -12,7 +12,7 @@ During the course you will gain insight into computationally oriented thinking, 
 
 We meet concepts such as **big data**, **data analysis**, **machine learning**, and **artificial intelligence (AI)**, with examples from personalized and predictive medicine. You will use methods and tools from numerical programming, data analysis and "scientific computing" for medical applications, and learn about the importance of **open science**, **data sharing**, and **reproducible research**.
 
-You will find more (static) information about the course at [MittUiB](https://mitt.uib.no/courses/27607); zoom-meetings and teams are listed [here](https://github.com/MMIV-ML/ELMED219-2021-students)(by invitation only) 
+You will find more (static) information about the course at [MittUiB](https://mitt.uib.no/courses/27607); zoom-meetings and teams are listed [here](https://github.com/MMIV-ML/ELMED219-2021-students) (by invitation only) 
 
 <img src="./assets/questions.jpg" width="70">
 
