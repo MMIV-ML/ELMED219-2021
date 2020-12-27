@@ -25,7 +25,7 @@ The focus of the assignment is **(i)** description of relevant imaging technolog
 (1 1/2-2 1/2 pages incl. graphics / links)
  - Description of generated data and code
  - Sharing of data and code
- - Ethical consideration
+ - Ethical considerations
 
 -----------------------------------
 ## *Prepare you and your computer for the team-based project*
