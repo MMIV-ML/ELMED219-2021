@@ -1,7 +1,7 @@
 ## ELMED219-2021 (*work in progress*)
 # Artificial intelligence and computational medicine
 
-(MittUiB: [ELMED219 21V](https://mitt.uib.no/courses/27607))  Students respository (by invitation only): [[here](https://github.com/MMIV-ML/ELMED219-2021-students)]
+(MittUiB: [ELMED219 21V](https://mitt.uib.no/courses/27607))  - Students respository (by invitation only): [[here](https://github.com/MMIV-ML/ELMED219-2021-students)]
 
 The [course](https://www.uib.no/en/course/ELMED219) belongs to the [Department of Biomedicine](https://www.uib.no/biomedisin) and is associated with the [Department of Computer science, Electrical engineering and Mathematical sciences](https://www.hvl.no/en/about/management/faculty-of-engineering-and-science/department-of-computer-science-electrical-engineering-and-mathematical-sciences-ny-side), Western Norway University of Applied Sciences, and [Mohn Medical Imaging and Visualization Center](https://mmiv.no/).
 
