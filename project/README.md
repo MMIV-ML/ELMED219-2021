@@ -37,7 +37,7 @@ The focus of the assignment is **(i)** description of relevant imaging technolog
 
 - We will be using the [Overleaf](https://www.overleaf.com) online, collaborative LaTeX editor (for more information on LaTeX, see [here](https://en.wikipedia.org/wiki/LaTeX) and [here](https://www.tug.org/pracjourn/2007-4/senthil/senthil.pdf) and [here](https://mildopinions.wordpress.com/2008/07/07/why-i-use-latex-in-biology), and for LeTeX templates, see e.g. [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-molecular-systems-biology/kyxgttpbzhht) and [here](https://www.overleaf.com/latex/templates/tagged/academic-journal))
 
-- **LaTeX template for the report**  is found [[here](./latex-template/ELMED219_2021_project_team_k.tex)] with a dummy figure [[here](./latex-template/elmed219_dummy_fig.png)], resulting in the following [[pdf](ELMED219_2021_project_team_k.pdf)].
+- **LaTeX template for the report**  is found [[here](./latex-template/ELMED219_2021_project_team_k.tex)] with a dummy figure [[here](./latex-template/elmed219_dummy_fig.png)], resulting in the following [[pdf](./latex-template/ELMED219_2021_project_team_k.pdf)].
 
 - **Expected level of detail** is illustrated with a [project report](https://www.overleaf.com/read/xwjxwcnpzhqv) from the 2019 Summer School at Seili (for which *Prostate Cancer* was the topic) to be found on Overleaf [[here](https://www.overleaf.com/project/5ec71af71aca320001385354)] and on the present repo as [[main.tex](./latex-template/main.tex)],  [[fig1](./latex-template/Fig1_The_process_of_autoEncoder.png)], [[fig2](./latex-template/Fig2_Overview_of_the_process.png)], resulting in the [[pdf](./latex-template/Seili_2020_project_template.pdf)].
 
