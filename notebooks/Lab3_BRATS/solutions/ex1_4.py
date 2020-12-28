@@ -1,0 +1,12 @@
+fig = plt.figure(figsize = [12, 7])
+plt.subplot(1,3,1)
+plt.imshow(train_msk)
+plt.title('a) $\ldots$', position=(0, 256), horizontalalignment='left', fontsize=16)
+plt.subplot(1,3,2)
+plt.imshow(targ, cmap='gray')
+plt.title('b) $\ldots$', position=(0, 256), horizontalalignment='left', fontsize=16)
+plt.subplot(1,3,3)
+plt.imshow(targ_roi, cmap='gray')
+plt.title('c) $\ldots$', position=(0, 256), horizontalalignment='left', fontsize=16)
+plt.show()
+
