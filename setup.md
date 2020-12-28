@@ -15,8 +15,8 @@ See e.g. [Basic Unix Commands](https://people.duke.edu/~ccc14/pcfb/unix.html) an
 #### ... and luckily also the [Jupyter notebook](https://www.nature.com/articles/d41586-018-07196-1)
 - for openness [!](https://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261) and reproduciblity [!](https://arxiv.org/pdf/1810.08055.pdf)
 
-## GitHub:
-The course code is hosted on the code-sharing platform GitHub (where you now are reading this). If you do not have a GitHub account already you should make one now (https://github.com/join). We recommend that you are using the platform for your own projects during the course. Hence:
+## GitHub
+The course code is hosted on the code-sharing platform GitHub (where you're reading this). If you do not have a GitHub account already you should make one now (https://github.com/join). We recommend that you are using the platform for your own projects during the course. Therefore, you should complete the following steps:
 
 
 - Create an account on GitHub (https://github.com) using the `Sign up for GitHub` form on the right side of the page.
@@ -28,10 +28,10 @@ The course code is hosted on the code-sharing platform GitHub (where you now are
   - In the upper left corner click on the drop down with your name.
   - Confirm that the name of the course GitHub organization is present
 
-## ITK-SNAP:
+## ITK-SNAP
 ITK-SNAP is an open-source image analysis tool used to segment and label structures in 3D medical images. ITK-SNAP is supported on Mac, Windows and Linux and provides semi-automatic segmentation using active contour methods, as well as manual delineation and image navigation. You can read and interact with DICOM and NIFTI images, and plot time-course data. Download the newest release of ITK-SNAP at http://www.itksnap.org/pmwiki/pmwiki.php?n=Downloads.SNAP3
 
-## Anaconda:
+## Anaconda
 We recommend installing Python via the [Anaconda Distribution](https://www.anaconda.com/download). Be sure to use the "Python 3.8.x" version. We will use the Conda Package Management System within the Anaconda Distribution. From the [documentation](https://conda.io/docs):
 > Conda is an open source package management system and environment management system that runs on Windows, macOS and Linux. Conda quickly installs, runs and updates packages and their dependencies. Conda easily creates, saves, loads and switches between environments on your local computer.
 
@@ -40,7 +40,7 @@ After the installation run `python --version` in a terminal window (in "Anaconda
 
 ## Install and test the course environment
 
-After you have successfully installed Anaconda, go through the following steps (if you are using Windows, be at the "Anaconda Prompt").
+After you have successfully installed Anaconda, go through the following steps (if you are using Windows, use the "Anaconda Prompt").
 
 ### Install Git:
 ```bash
@@ -85,12 +85,8 @@ conda env update
 
 # Unix Shell
 
-Learners need to understand what files and directories are and what a working directory is. These concepts are covered in the
+It will be useful to understand what files and directories are and what a working directory is. These concepts are covered in the
 [Unix Shell](http://swcarpentry.github.io/shell-novice) lessons (thanks to [Anne Fouilloux](https://www.mn.uio.no/geo/english/people/adm/annefou), UiO)
-
-# Programming with Python
-
-The best way to learn how to program is to do something useful, so [this](http://swcarpentry.github.io/python-novice-inflammation) introduction to Python is built around a common scientific task: **data analysis** (we are studying inflammation in patients who have been given a new treatment for arthritis, and need to analyze the first dozen data sets of their daily inflammation); see also [here](https://github.com/swcarpentry/python-novice-inflammation).
 
 
 ## A note on R (tip for previous R users)

@@ -1,7 +1,4 @@
-## ELMED219-2021 (*work in progress*)
-# Artificial intelligence and computational medicine
-
-(MittUiB: [ELMED219 21V](https://mitt.uib.no/courses/27607))  - Students respository (by invitation only): [[here](https://github.com/MMIV-ML/ELMED219-2021-students)]
+# ELMED219-2021: Artificial intelligence and computational medicine
 
 The [course](https://www.uib.no/en/course/ELMED219) belongs to the [Department of Biomedicine](https://www.uib.no/biomedisin) and is associated with the [Department of Computer science, Electrical engineering and Mathematical sciences](https://www.hvl.no/en/about/management/faculty-of-engineering-and-science/department-of-computer-science-electrical-engineering-and-mathematical-sciences-ny-side), Western Norway University of Applied Sciences, and [Mohn Medical Imaging and Visualization Center](https://mmiv.no/).
 
@@ -46,8 +43,8 @@ ______________________________________________________
 |11:15-12:00 | Brain imaging (MRI) and glioblastoma   [[slides](https://docs.google.com/presentation/d/1R5lfsxd7o4p2uZjZuVwlatNOz3vTPAKTkkH31QCp7XE)]  |               |
 |            | *Arvid Lundervold*                                        |               |
 |            |                                                           |               |
-|**Fri, January 8**| (teaching material from DataCamp)      |               |
-| On your own | _To be added_   |      |
+|**Fri, January 8**|       |               |
+| On your own | You'll spend approximately 4 hours working on material from DataCamp. The rest of time on project work. Which course you're encouraged to follow depends on your previous programming experience.  <ul><li>No Python programming experience? Complete the course [Introduction to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science)</li> <li>Know some Python, but no machine learning? Can pass the _Python Programming Assessment_ in our DataCamp group? Complete the course [Supervised Learning with scikit-learn](https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn)</li> <li> Know the fundamentals of machine learning in Python? Can pass the _Machine Learning Fundamentals Assessment_? Complete the course [Biomedical Image Analysis in Python](https://learn.datacamp.com/courses/biomedical-image-analysis-in-python)  </li>|      |
 |            |                                                           |               |
 |**Mon, January 11**|                                                 |               |
 |10:15-11:00 | LAB 1: Medical health records, predicting length of stay         | Join in Zoom  |
@@ -63,8 +60,7 @@ ______________________________________________________
 |            | *Arvid Lundervold*                                        |               |
 |            |                                                           |               |
 |**Mon, January 18**|                                                 |               |
-|10:15-12:00 | Perspectives on medical AI:                               | Join in Zoom  |
-|            |  explainable AI, innovation, and ethics  [[slides-ethics](https://docs.google.com/presentation/d/1Td39QF5LsRB_R4hA84FwJATpr6KoZm3PoteQEKbJMKY)]                 |               |
+|10:15-12:00 | Perspectives on medical AI:  explainable AI, innovation, and ethics  [ [slides](https://docs.google.com/presentation/d/1Td39QF5LsRB_R4hA84FwJATpr6KoZm3PoteQEKbJMKY)]                            | Join in Zoom  |
 |            | *Arvid Lundervold / Alexander Selvikvåg Lundervold*       |               |
 |            |                                                           |               |
 |**Wed, January 27** |                                             |               |
@@ -82,13 +78,13 @@ ______________________________________________________
 
 
 # *Prepare you and your computer for computational analysis*
-If you are used to work with computer installations and github you can go directly to the material at github and use the guide for setting up your computer and perform notebook exercises.
+If you are used to work with software installations and github you can go directly to the material at github and use the guide for setting up your computer and perform notebook exercises.
 
 - **Python course material** at https://github.com/MMIV-ML/ELMED219-2021  – follow the instructions at [Setting up your system](setup.md) (`setup.md`) to get ready
 
 - **Browser** display and functionality might differ between browsers - we recommend using Mozilla [Firefox](https://www.mozilla.org/en-US/firefox/new/) or Google [Chrome](https://www.google.com/chrome) on all platforms
 
-- **Jupyter notebooks** are used throughout the course being a web-based framework for developing and presenting code-based projects (take a look at https://youtu.be/HW29067qVWk and https://youtu.be/2eCHD6f_phE for introductions to Jupyter Notebooks).
+- **Jupyter notebooks** are used throughout the course. It's a web-based framework for developing and presenting code-based projects (take a look at https://youtu.be/HW29067qVWk and https://youtu.be/2eCHD6f_phE for introductions to Jupyter Notebooks).
 
 -  **Test your environment** [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more]: run through this notebook [`notebooks/0.0-test.ipynb`](notebooks/0.0-test.ipynb) to check that your environment is OK
 
