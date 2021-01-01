@@ -35,7 +35,7 @@ ______________________________________________________
 |10:15-12:00 | About the course / Motivation lectures     [[slides-CompMed](https://docs.google.com/presentation/d/e/2PACX-1vRzirGyqnp-y5XOs6CXOJshsRkA-qHfZNI--Ae-sBcxutF-Xewl0G6jcMBJDuETRwsjXOamTGUI025N/pub?start=false&loop=false&delayms=3000)]          |  Join in Zoom |
 |            | *Arvid Lundervold / Alexander Selvikvåg Lundervold*       |               |
 |**Wed, January 6**|                                                 |               |
-|10:15-12:00 | [Project](https://docs.google.com/presentation/d/1C1cFULwX2FmveGUAN_MJRCfnYkoyM9mqSBxltBFjezQ) work, teams, and tools (GitHub, DataCamp, Overleaf, Discord)  | Join in Zoom  |
+|10:15-12:00 | [Project](https://docs.google.com/presentation/d/e/2PACX-1vRtDpikPzBJc6VD31FfbrDd1nOYntmfT0fPSrdczpNbo__odhqyGjNAhcFy7DPv4-ROTMnd2TOS3ORv/pub?start=false&loop=false&delayms=3000) work, teams, and tools (GitHub, DataCamp, Overleaf, Discord)  | Join in Zoom  |
 |            | *Arvid Lundervold / Alexander Selvikvåg Lundervold*       |               |
 |**Thu, January 7**|                                               |               |
 |10:15-11:00 | LAB 0: Introduction to theory and tools for machine learning     | Join in Zoom  |
