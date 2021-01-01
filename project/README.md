@@ -47,14 +47,14 @@ The focus of the assignment is **(i)** description of relevant imaging technolog
 
 
 #### Pre reading
+
+  - For those of you that have limited knowledge about biology and pathology of brain or want to refresh their knowledge, we recommend the free Coursera course
+  https://www.coursera.org/learn/neurobiology, especially the lecture on [brain tumors](https://www.coursera.org/lecture/neurobiology/brain-tumors-fUcn4).
   - Aldape K et al. Challenges to curing primary brain tumors. Nat Rev Clin Oncol 2019;16:509-520.  [[link](https://www.nature.com/articles/s41571-019-0177-5)]
 
   - Louis DN et al. The 2016 World Health Organization Classification of Tumors of the Central Nervous System: A Summary. Acta Neuropathol 2016;131(6):803-820. [[link](https://link.springer.com/article/10.1007/s00401-016-1545-1)]
 
   - The Brain Atlas https://www.proteinatlas.org/humanproteome/brain
-
-  - Also, for those of you that have limited knowledge about biology and pathology of brain or want to refresh their knowledge, we recommend the free Coursera course
-  https://www.coursera.org/learn/neurobiology, especially the lecture on [brain tumors](https://www.coursera.org/lecture/neurobiology/brain-tumors-fUcn4).
 
 
 **Brain tumors & Neuroimaging** (some pointers)
