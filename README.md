@@ -26,13 +26,13 @@ ______________________________________________________
 
 # <u>Tentative</u> time schedule
 
-| Time       |  Activity  <space> <sub><sup>(NOTE: access to links will be provided in due time)</sup></sub>  |    Zoom       |
-|------------|-----------------------------------------------------------|---------------|
+| Time       |  Activity  <space> <sub><sup>(NOTE: access to links will be provided in due time)</sup></sub>  
+|------------|-----------------------------------------------------------
 |**Mon, January 4**|                                                  |               |
 | On your own | Installation of software / Get an overview of the course |               |
 |            | Check online resources                                    |               |
 |**Tue, January 5**|                                                  |               |
-|10:15-12:00 | About the course / Motivation lectures     [[slides-CompMed](https://docs.google.com/presentation/d/e/2PACX-1vRzirGyqnp-y5XOs6CXOJshsRkA-qHfZNI--Ae-sBcxutF-Xewl0G6jcMBJDuETRwsjXOamTGUI025N/pub?start=false&loop=false&delayms=3000)]          |  Join in Zoom |
+|10:15-12:00 | About the course / Motivation lectures     <br> [[1-slides-about](https://docs.google.com/presentation/d/e/2PACX-1vQozwdJ39W3DX2ju4CvCU1V1G6rLx8V6HC3SeUpeVrz3FnFd64mdPs0mc9-NjKG7lNVP_PX-9VB9zH8/pub?start=false&loop=false&delayms=3000)]<br>[[2-slides-CompMed](https://docs.google.com/presentation/d/e/2PACX-1vRzirGyqnp-y5XOs6CXOJshsRkA-qHfZNI--Ae-sBcxutF-Xewl0G6jcMBJDuETRwsjXOamTGUI025N/pub?start=false&loop=false&delayms=3000)] <br> [[3-slides-medAI](tba)]          |  Join in Zoom |
 |            | *Arvid Lundervold / Alexander Selvikvåg Lundervold*       |               |
 |**Wed, January 6**|                                                 |               |
 |10:15-12:00 | [Project](https://docs.google.com/presentation/d/e/2PACX-1vRtDpikPzBJc6VD31FfbrDd1nOYntmfT0fPSrdczpNbo__odhqyGjNAhcFy7DPv4-ROTMnd2TOS3ORv/pub?start=false&loop=false&delayms=3000) work, teams, and tools (GitHub, DataCamp, Overleaf, Discord)  | Join in Zoom  |
