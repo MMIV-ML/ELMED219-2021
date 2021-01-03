@@ -32,7 +32,7 @@ ______________________________________________________
 | On your own | Installation of software / Get an overview of the course |               |
 |            | Follow the instructions at [MittUiB](https://mitt.uib.no/courses/27607/modules#module_27745)                                    |               |
 |**Tue, January 5**|                                                  |               |
-|10:15-12:00 | About the course / Motivation lectures     <br> [1-slides-about](https://docs.google.com/presentation/d/e/2PACX-1vQozwdJ39W3DX2ju4CvCU1V1G6rLx8V6HC3SeUpeVrz3FnFd64mdPs0mc9-NjKG7lNVP_PX-9VB9zH8/pub?start=false&loop=false&delayms=3000)<br>[2-slides-CompMed](https://docs.google.com/presentation/d/e/2PACX-1vRzirGyqnp-y5XOs6CXOJshsRkA-qHfZNI--Ae-sBcxutF-Xewl0G6jcMBJDuETRwsjXOamTGUI025N/pub?start=false&loop=false&delayms=3000) <br> [3-slides-medAI](tba)          
+|10:15-12:00 | About the course / Motivation lectures     <br> [1-slides-about](https://docs.google.com/presentation/d/e/2PACX-1vQozwdJ39W3DX2ju4CvCU1V1G6rLx8V6HC3SeUpeVrz3FnFd64mdPs0mc9-NjKG7lNVP_PX-9VB9zH8/pub?start=false&loop=false&delayms=3000) &nbsp; [1-video-about](tba) <br>[2-slides-CompMed](https://docs.google.com/presentation/d/e/2PACX-1vRzirGyqnp-y5XOs6CXOJshsRkA-qHfZNI--Ae-sBcxutF-Xewl0G6jcMBJDuETRwsjXOamTGUI025N/pub?start=false&loop=false&delayms=3000) <br> [3-slides-medAI](tba)          
 |            | *Arvid Lundervold / Alexander Selvikvåg Lundervold*       |               |
 |**Wed, January 6**|                                                 |               |
 |10:15-12:00 | [Project](https://docs.google.com/presentation/d/e/2PACX-1vRtDpikPzBJc6VD31FfbrDd1nOYntmfT0fPSrdczpNbo__odhqyGjNAhcFy7DPv4-ROTMnd2TOS3ORv/pub?start=false&loop=false&delayms=3000) work, teams, and tools (GitHub, DataCamp, Overleaf, Discord)  | Join in Zoom  |
@@ -77,7 +77,7 @@ ______________________________________________________
 ______________________________________________________
 
 
-# *Prepare you and your computer for computational analysis*
+# *Prepare yourself and your computer for computational analysis*
 If you are used to work with software installations and github you can go directly to the material at github and use the guide for setting up your computer and perform notebook exercises.
 
 - **Python course material** at https://github.com/MMIV-ML/ELMED219-2021  – follow the instructions at [Setting up your system](setup.md) (`setup.md`) to get ready
