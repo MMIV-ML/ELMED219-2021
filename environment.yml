@@ -6,7 +6,6 @@ dependencies:
 - ipywidgets
 - jupyter
 - git
-- numpy==1.19.3 # See https://developercommunity.visualstudio.com/content/problem/1207405/fmod-after-an-update-to-windows-2004-is-causing-a.html
 - matplotlib
 - pandas
 - scikit-learn >= 0.23
@@ -27,3 +26,4 @@ dependencies:
   - nibabel
   - nilearn
   - opencv-python
+  - numpy==1.19.3 # See https://developercommunity.visualstudio.com/content/problem/1207405/fmod-after-an-update-to-windows-2004-is-causing-a.html
