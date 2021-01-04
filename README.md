@@ -56,7 +56,7 @@ ______________________________________________________
 |11:15-12:00 | LAB 2: MEDNIST and deep learning                          |               |
 |            |                                                           |               |
 |**Thu, January 14**|                                               |               |
-|10:15-11:00 | LAB 3: BRATS and multimodal MRI   [[slides](https://docs.google.com/presentation/d/1ujUR5_EzTIfn0p-aHs6FWTnxtlyxEjD3M2Am-dRsS7k)] [[notebooks](https://github.com/MMIV-ML/ELMED219-2021/blob/main/Lab3_BRATS)] | Join in Zoom  |
+|10:15-11:00 | LAB 3: BRATS and multimodal MRI   [[slides](https://docs.google.com/presentation/d/1ujUR5_EzTIfn0p-aHs6FWTnxtlyxEjD3M2Am-dRsS7k)] [[notebooks](./Lab3-BRATS)] | Join in Zoom  |
 |            | *Arvid Lundervold*                                        |               |
 |            |                                                           |               |
 |**Mon, January 18**|                                                 |               |
