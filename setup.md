@@ -16,17 +16,7 @@ See e.g. [Basic Unix Commands](https://people.duke.edu/~ccc14/pcfb/unix.html) an
 - for openness [!](https://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261) and reproduciblity [!](https://arxiv.org/pdf/1810.08055.pdf)
 
 ## GitHub
-The course code is hosted on the code-sharing platform GitHub (where you're reading this). If you do not have a GitHub account already you should make one now (https://github.com/join). We recommend that you are using the platform for your own projects during the course. Therefore, you should complete the following steps:
-
-
-- Create an account on GitHub (https://github.com) using the `Sign up for GitHub` form on the right side of the page.
-- Send your GitHub username to your instructor.
-- Once your instructor adds you to the course GitHub organization you will receive an email asking you to accept the invitation. Click on the link to accept.
-- Check if this worked
-  - Go to https://github.com.
-  - Sign in if necessary.
-  - In the upper left corner click on the drop down with your name.
-  - Confirm that the name of the course GitHub organization is present
+The course code is hosted on the code-sharing platform GitHub (where you're reading this). If you do not have a GitHub account already you should make one now (https://github.com/join). We recommend that you are using the platform for your own projects during the course. Create an account on GitHub (https://github.com) using the `Sign up for GitHub` form on the right side of the page.
 
 ## ITK-SNAP
 ITK-SNAP is an open-source image analysis tool used to segment and label structures in 3D medical images. ITK-SNAP is supported on Mac, Windows and Linux and provides semi-automatic segmentation using active contour methods, as well as manual delineation and image navigation. You can read and interact with DICOM and NIFTI images, and plot time-course data. Download the newest release of ITK-SNAP at http://www.itksnap.org/pmwiki/pmwiki.php?n=Downloads.SNAP3
