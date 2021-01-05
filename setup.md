@@ -69,7 +69,7 @@ The code and environment will be updated during the course. Run the following co
 * Update code: `git pull`
 * Update environment:
 ```bash
-conda activate elmed210-2021
+conda activate elmed219-2021
 conda env update
 ```
 
