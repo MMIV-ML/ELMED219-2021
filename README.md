@@ -40,7 +40,7 @@ ______________________________________________________
 |**Thu, January 7**|                                               |               |
 |10:15-11:00 | LAB 0: Introduction to theory and tools for machine learning     | Join in Zoom  |
 |            | *Alexander Selvikvåg Lundervold*                          |               |
-|11:15-12:00 | Brain imaging (MRI) and glioblastoma   [[slides](https://docs.google.com/presentation/d/1R5lfsxd7o4p2uZjZuVwlatNOz3vTPAKTkkH31QCp7XE)]  |               |
+|11:15-12:00 | Brain imaging (MRI and IMC) in glioblastoma   [[slides](https://docs.google.com/presentation/d/1R5lfsxd7o4p2uZjZuVwlatNOz3vTPAKTkkH31QCp7XE)]  |               |
 |            | *Arvid Lundervold*                                        |               |
 |            |                                                           |               |
 |**Fri, January 8**|       |               |
