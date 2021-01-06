@@ -3,9 +3,11 @@
 This lab will give a quick example-based introduction to basic ideas in machine learning, using Python and scikit-learn. 
 
 
-## Slides
+## Slides and video recording
 
-[ELMED219 - 2021 - MachineLearning](https://docs.google.com/presentation/d/e/2PACX-1vTzGluP4hw1wPBY7TegWgHn1vSPtJitp9blgE0ee3qY2lTujeIJgVGQFJuD0h5jN7F8pQnoGZ-JmzXF/pub?start=false&loop=false&delayms=3000)
+[Slides-ELMED219-2021-MachineLearning](https://docs.google.com/presentation/d/e/2PACX-1vTzGluP4hw1wPBY7TegWgHn1vSPtJitp9blgE0ee3qY2lTujeIJgVGQFJuD0h5jN7F8pQnoGZ-JmzXF/pub?start=false&loop=false&delayms=3000)
+
+[Video-ELMED219-2021-MachineLearning](tba)
 
 ## Jupyter notebooks
 
