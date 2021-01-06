@@ -9,7 +9,7 @@ _TBA_
 
 ## Jupyter notebooks
 
-* The notebook <code>1.0-asl-intro_to_machine_learning.ipynb</code> uses machine learning to construct predictive models based on some simple data sets. The goal is to provide a hands-on introduction to some basic ingredients and techniques in machine learning.
+* The notebook [ELMED219-Lab0-simple_examples.ipynb](./ELMED219-Lab0-simple_examples.ipynb) uses machine learning to construct predictive models based on some simple data sets. The goal is to provide a hands-on introduction to some basic ingredients and techniques in machine learning.
 
 ## Your turn! 
 
