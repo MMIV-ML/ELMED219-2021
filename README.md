@@ -38,7 +38,7 @@ ______________________________________________________
 |10:15-12:00 | Tools, teams and project work <br>[1-slides-tools](https://docs.google.com/presentation/d/e/2PACX-1vSfzcBXUBoZmBM51I_uM160fB0lRKg33O_omnyDSj_txf_AQ7vD9xElU-J_Z1DK4D16Jup8w545rXN-/pub?start=false&loop=false&delayms=3000), &nbsp; [1-video-tools](https://youtu.be/45JsopEXLuY) <br>[2-slides-team_project](https://docs.google.com/presentation/d/e/2PACX-1vRtDpikPzBJc6VD31FfbrDd1nOYntmfT0fPSrdczpNbo__odhqyGjNAhcFy7DPv4-ROTMnd2TOS3ORv/pub?start=false&loop=false&delayms=3000), &nbsp; [2-video-team_project](https://youtu.be/LWWVL8eEDOo)  | Join in Zoom  |
 |            | *Arvid Lundervold / Alexander Selvikvåg Lundervold*       |               |
 |**Thu, January 7**|                                               |               |
-|10:15-11:00 | LAB 0: Introduction to theory and tools for machine learning     | Join in Zoom  |
+|10:15-11:00 | [LAB 0: Introduction to theory and tools for machine learning](https://github.com/MMIV-ML/ELMED219-2021/tree/main/Lab0-ML)     | Join in Zoom  |
 |            | *Alexander Selvikvåg Lundervold*                          |               |
 |11:15-12:00 | Brain imaging (MRI and IMC) in glioblastoma   [[slides](https://docs.google.com/presentation/d/1R5lfsxd7o4p2uZjZuVwlatNOz3vTPAKTkkH31QCp7XE)]  |               |
 |            | *Arvid Lundervold*                                        |               |
@@ -56,7 +56,7 @@ ______________________________________________________
 |11:15-12:00 | LAB 2: MEDNIST and deep learning                          |               |
 |            |                                                           |               |
 |**Thu, January 14**|                                               |               |
-|10:15-11:00 | LAB 3: BRATS and multimodal MRI   [[slides](https://docs.google.com/presentation/d/1ujUR5_EzTIfn0p-aHs6FWTnxtlyxEjD3M2Am-dRsS7k)] [[notebooks](./Lab3-BRATS)] | Join in Zoom  |
+|10:15-11:00 | [LAB 3: BRATS and multimodal MRI](https://github.com/MMIV-ML/ELMED219-2021/tree/main/Lab3-BRATS)  | Join in Zoom  |
 |            | *Arvid Lundervold*                                        |               |
 |            |                                                           |               |
 |**Mon, January 18**|                                                 |               |
