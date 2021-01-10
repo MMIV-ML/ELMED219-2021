@@ -11,7 +11,7 @@ _TBA_
 
 - [`1_mri_basics.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2021/blob/main/Lab3-BRATS/1_mri_basics.ipynb) 
 - [`2_mri_BRATS_001.ipynb`]
-- [`3_brain_tumor_unsupervised_segmentation.ipynb`]
+- [`3_brain_tumor_unsupervised_segmentation.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2021/blob/main/Lab3-BRATS/3_brain_tumor_unsupervised_segmentation.ipynb)
 
 ## Your turn! 
 
