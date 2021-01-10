@@ -47,7 +47,7 @@ ______________________________________________________
 | On your own | You'll spend approximately four hours completing a DataCamp course (remember to use the link on MittUiB for free access to DataCamp). The rest of day you'll work on your course projects. Which DataCamp course you're encouraged to do depends on your previous programming experience:  <ul><li>No Python programming experience? Complete the course [Introduction to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science)</li> <li>Know some Python, but no machine learning? Can pass the _Python Programming Assessment_ in our DataCamp group? Complete the course [Supervised Learning with scikit-learn](https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn)</li> <li> Know the fundamentals of machine learning in Python? Can pass the _Machine Learning Fundamentals Assessment_? Complete the course [Biomedical Image Analysis in Python](https://learn.datacamp.com/courses/biomedical-image-analysis-in-python)  </li>|      |
 |            |                                                           |               |
 |**Mon, January 11**|                                                 |               |
-|10:15-11:00 | LAB 1: Medical health records, predicting length of stay         | Join in Zoom  |
+|10:15-11:00 | [LAB 1: Medical health records and natural language processing](./Lab1-HealthRecords)         | Join in Zoom  |
 |            | *Alexander Selvikvåg Lundervold*                          |               |
 |            |                                                           |               |
 |**Tue, January 12**|                                                |               |
