@@ -10,6 +10,7 @@ _TBA_
 ## Jupyter notebooks
 
 - [`1_mri_basics.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2021/blob/main/Lab3-BRATS/1_mri_basics.ipynb) 
+- [`2_mri_BRATS_001.ipynb`]
 
 ## Your turn! 
 
