@@ -1,6 +1,6 @@
 # Lab 3: BRATS and multimodal MRI
 
-This lab will introduce multiparametric / multspectral MRI, the concepts of noise and contrast-to-noise ratio (CNR). It will also introduce supervised tissue clasification of the head based on four-channel MRI recordings and manual delination of six different tissue types (or labels: AIR, GM, WM, CSF, MUS. FAT), using K-nearest neighorhood (KNN) clasification in 4D feature space.
+This lab will introduce multiparametric / multspectral MRI, the concepts of noise and contrast-to-noise ratio (CNR). It will also introduce **supervised learning** (tissue clasification) of the head based on four-channel MRI recordings and manual delination of six different tissue types (or labels: AIR, GM, WM, CSF, MUS. FAT), using K-nearest neighorhood (KNN) clasification in 4D feature space. It will further introduce a multimodal dataset from the BRATS (Brain Tumor Segmentation) challenge and introduce **unsupervised learning** (K-means clustering) of these data using tool from `scikit-learn`.
 
 
 ## Slides
