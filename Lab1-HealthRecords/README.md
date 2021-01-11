@@ -6,7 +6,7 @@ This lab will discuss the construction of predictive models based on structured 
 ## Slides and video recording
 
 [Slides-ELMED219-2021-EHR](https://docs.google.com/presentation/d/e/2PACX-1vT9Mxkv-xVxDKFlvKlEWmojucYmw-Gd3ko_-tLSk2fq5_zC2YGEqTFvaArqXF2DCBtQf9T0yjIE7soP/pub?start=false&loop=false&delayms=3000)<br>
-[Video-ELMED219-2021-EHR](tba)
+[Video-ELMED219-2021-EHR](https://youtu.be/rdlgGVs42NQ)
 
 ## Jupyter notebooks
 
