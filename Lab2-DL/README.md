@@ -5,7 +5,7 @@ This lab and the accompanying lecture gave answers to the questions "What is dee
 
 ## Slides and video recording
 
-[Slides-ELMED219-2021-DeepLearning]()
+[Slides-ELMED219-2021-DeepLearning](https://hvl365-my.sharepoint.com/:p:/g/personal/allu_hvl_no/EYPRBRpecP1IjEM5uluMJ_EB94EvEW7WkjAUHulbJ47IyQ?e=3XqTQb)
 
 [Video-ELMED219-2021-DeepLearning](https://youtu.be/2XaIf6AMuis)
 
