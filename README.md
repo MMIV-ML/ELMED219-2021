@@ -51,9 +51,7 @@ ______________________________________________________
 |            | *Alexander Selvikvåg Lundervold*                          |               |
 |            |                                                           |               |
 |**Tue, January 12**|                                                |               |
-|10:15-11:00 | Quick introduction to deep learning                       | Join in Zoom  |
-|            | *Alexander Selvikvåg Lundervold*                          |               |
-|11:15-12:00 | LAB 2: MEDNIST and deep learning                          |               |
+|10:15-12:00 | [LAB 2: A quick introduction to deep learning](./Lab2-DL)             | Join in Zoom  |
 |            |                                                           |               |
 |**Thu, January 14**|                                               |               |
 |10:15-11:00 | [LAB 3: BRATS and multimodal MRI](https://github.com/MMIV-ML/ELMED219-2021/tree/main/Lab3-BRATS)  | Join in Zoom  |
