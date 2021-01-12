@@ -86,7 +86,7 @@ If you are used to work with software installations and github you can go direct
 
 - **Jupyter notebooks** are used throughout the course. It's a web-based framework for developing and presenting code-based projects (take a look at https://youtu.be/HW29067qVWk and https://youtu.be/2eCHD6f_phE for introductions to Jupyter Notebooks).
 
--  **Test your environment** [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more]: run through this notebook [`notebooks/0.0-test.ipynb`](notebooks/0.0-test.ipynb) to check that your environment is OK
+-  **Test your environment** [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more]: run through this notebook [`notebooks/0.0-test.ipynb`](notebooks/0.0-test.ipynb) [[in nbviewer](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2021/blob/main/notebooks/0.0-test.ipynb)] to check that your environment is OK
 
 - Throughout the course you will work with notebooks that contain various material and programming tasks. We recommend that you *make a copy of our notebooks before you edit them*. You can adopt the naming convention `my_[name_of_notebook].ipynb`. Remember also to start a new session with a **`git pull`** (things can have changed)
 

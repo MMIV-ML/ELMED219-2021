@@ -1,16 +1,18 @@
 # Lab 3: BRATS and multimodal MRI
 
-_Details TBA_ 
+This lab will introduce multiparametric / multspectral MRI, the concepts of noise and contrast-to-noise ratio (CNR). It will also introduce **supervised learning** (tissue clasification) of the head based on four-channel MRI recordings and manual delination of six different tissue types (or labels: AIR, GM, WM, CSF, MUS. FAT), using K-nearest neighorhood (KNN) clasification in 4D feature space. It will further introduce a multimodal dataset from the BRATS (Brain Tumor Segmentation) challenge and introduce **unsupervised learning** (K-means clustering) of these data using tool from `scikit-learn`.
 
 
 ## Slides
 
-_TBA_
+[Slides-ELMED219-2021-MRI-BRATS](https://docs.google.com/presentation/d/e/2PACX-1vQIOXlzEGk8Pu7LShMnGkWS1iQ1uJrgnag5E0NlIiwHPv43lr_Rsx1DjK79bu20ihAYnpBD51UIUprC/pub?start=false&loop=false&delayms=3000)  (in prep.)
 
 ## Jupyter notebooks
 
-_TBA_
+- [`1_mri_basics.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2021/blob/main/Lab3-BRATS/1_mri_basics.ipynb) 
+- [`2_mri_BRATS_001.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2021/blob/main/Lab3-BRATS/2_mri_BRATS_001.ipynb)
+- [`3_brain_tumor_unsupervised_segmentation.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2021/blob/main/Lab3-BRATS/3_brain_tumor_unsupervised_segmentation.ipynb)
 
 ## Your turn! 
 
-_TBA_
+The notebooks have several excerices and suggestions for experiments with the models and their (hyper)parameters.
