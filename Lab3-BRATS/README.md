@@ -11,7 +11,7 @@ This lab will introduce multiparametric / multspectral MRI, the concepts of nois
 
 - [`ELMED219-Lab3-mri-multispectral-KNN-segm.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2021/blob/main/Lab3-BRATS/ELMED219-Lab3-mri-multispectral-KNN-segm.ipynb) 
 - [`ELMED219-Lab3-glioma-segm-hd-glio-tcga-06-1802.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2021/blob/main/Lab3-BRATS/ELMED219-Lab3-glioma-segm-hd-glio-tcga-06-1802.ipynb)
-- [`3_brain_tumor_unsupervised_segmentation.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2021/blob/main/Lab3-BRATS/3_brain_tumor_unsupervised_segmentation.ipynb)
+- [`ELMED219-Lab3-glioma-unsupervised-segm-K-means.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2021/blob/main/Lab3-BRATS/ELMED219-Lab3-glioma-unsupervised-segm-K-means.ipynb)
 
 ## Your turn! 
 
