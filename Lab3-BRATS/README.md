@@ -19,4 +19,4 @@ Finally, we introduce **unsupervised learning** (K-means clustering) of these mu
 
 ## Your turn! 
 
-The notebooks]have several excerices and suggestions for experiments with the models and their (hyper)parameters.
+The notebooks have several small excerices and code completion challenges (with solutions) and encourage experiments with the ML models and their (hyper)parameters.
