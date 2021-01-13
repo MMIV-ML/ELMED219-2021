@@ -5,7 +5,7 @@ This lab will introduce multiparametric / multspectral MRI, the concepts of nois
 
 ## Slides
 
-[ELMED219-Lab-BRATS-and-multimodal-MRI](https://docs.google.com/presentation/d/e/2PACX-1vTAsaZCQpvCk6zSlrYqzBVyNLIw-AV6vqM09_HB4ItVKDCeo8ckhsggU4plwgWeeQR5jMvt-LmeiJZq/pub?start=false&loop=false&delayms=3000)  (in prep.)
+[ELMED219-Lab-BRATS-and-multimodal-MRI](https://docs.google.com/presentation/d/e/2PACX-1vTAsaZCQpvCk6zSlrYqzBVyNLIw-AV6vqM09_HB4ItVKDCeo8ckhsggU4plwgWeeQR5jMvt-LmeiJZq/pub?start=false&loop=false&delayms=3000)
 
 ## Jupyter notebooks
 
