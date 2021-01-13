@@ -9,9 +9,9 @@ This lab will introduce multiparametric / multspectral MRI, the concepts of nois
 
 ## Jupyter notebooks
 
-- [**1**] [`ELMED219-Lab3-mri-multispectral-KNN-segm.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2021/blob/main/Lab3-BRATS/ELMED219-Lab3-mri-multispectral-KNN-segm.ipynb) 
-- [**2**] [`EL[**1**ED219-Lab3-glioma-segm-hd-glio-tcga-06-1802.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2021/blob/main/Lab3-BRATS/ELMED219-Lab3-glioma-segm-hd-glio-tcga-06-1802.ipynb)
-- [**3**] [`ELMED219-Lab3-glioma-unsupervised-segm-K-means.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2021/blob/main/Lab3-BRATS/ELMED219-Lab3-glioma-unsupervised-segm-K-means.ipynb)
+- [1] [`ELMED219-Lab3-mri-multispectral-KNN-segm.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2021/blob/main/Lab3-BRATS/ELMED219-Lab3-mri-multispectral-KNN-segm.ipynb) 
+- [2] [`ELED219-Lab3-glioma-segm-hd-glio-tcga-06-1802.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2021/blob/main/Lab3-BRATS/ELMED219-Lab3-glioma-segm-hd-glio-tcga-06-1802.ipynb)
+- [3] [`ELMED219-Lab3-glioma-unsupervised-segm-K-means.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2021/blob/main/Lab3-BRATS/ELMED219-Lab3-glioma-unsupervised-segm-K-means.ipynb)
 
 ## Your turn! 
 
