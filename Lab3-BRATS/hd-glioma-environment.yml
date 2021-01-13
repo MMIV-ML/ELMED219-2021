@@ -1,0 +1,35 @@
+name: hd-glioma
+
+channels:
+  - simpleitk
+  - conda-forge
+
+dependencies:
+  - python==3.8
+  - jupyter
+  - ipython
+  - ipykernel
+  - jupyterlab
+  - jupyter_contrib_nbextensions
+  - matplotlib
+  - pip
+  - git
+  - ipywidgets
+  - numpy
+  - scipy
+  - pandas
+  - seaborn
+  - SimpleITK
+  - scikit-image
+  - imageio
+  - statsmodels
+  - nibabel
+  - nilearn
+  - pip:
+    - torch
+    - dipy              # https://dipy.org
+    # - batchgenerators   # https://github.com/MIC-DKFZ/batchgenerators
+    - -e git+https://github.com/MIC-DKFZ/batchgenerators#egg=batchgenerators
+    # - hd-bet            # https://github.com/NeuroAI-HD/HD-BET
+    - -e git+https://github.com/MIC-DKFZ/HD-BET#egg=HD-BET
+    - hd_glio           # https://github.com/NeuroAI-HD/HD-GLIO
