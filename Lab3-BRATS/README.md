@@ -9,7 +9,13 @@ Finally, we introduce **unsupervised learning** (K-means clustering) of these mu
 
 ## Slides
 
-[ELMED219-Lab-BRATS-and-multimodal-MRI](https://docs.google.com/presentation/d/e/2PACX-1vTAsaZCQpvCk6zSlrYqzBVyNLIw-AV6vqM09_HB4ItVKDCeo8ckhsggU4plwgWeeQR5jMvt-LmeiJZq/pub?start=false&loop=false&delayms=3000)
+## Slides and video recordings
+
+[Slides-ELMED219-Lab3-BRATS-and-multimodal-MRI](https://docs.google.com/presentation/d/e/2PACX-1vTAsaZCQpvCk6zSlrYqzBVyNLIw-AV6vqM09_HB4ItVKDCeo8ckhsggU4plwgWeeQR5jMvt-LmeiJZq/pub?start=false&loop=false&delayms=3000)
+
+[Video-ELMED219-Lab3-Lecture-Multimodal MRI](https://youtu.be/CegDkIi2JrI)
+
+[Video-ELMED219-Lab3-Lab-Multimodal MRI](https://youtu.be/feSbu4dWdfE)
 
 ## Jupyter notebooks
 
