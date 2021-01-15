@@ -59,7 +59,7 @@ ______________________________________________________
 |            | *Arvid Lundervold*                                        |               |
 |            |                                                           |               |
 |**Mon, January 18**|                                                 |               |
-|10:15-12:00 | Perspectives on medical AI:  explainable AI, innovation, and ethics  [ [slides](https://docs.google.com/presentation/d/1Td39QF5LsRB_R4hA84FwJATpr6KoZm3PoteQEKbJMKY)]                            | Join in Zoom  |
+|10:15-12:00 | Perspectives on medical AI:  innovation, education, epistemology, ethics and impact                            | Join in Zoom  |
 |            | *Arvid Lundervold / Alexander Selvikvåg Lundervold*       |               |
 |            |                                                           |               |
 |**Wed, January 27** |                                             |               |
