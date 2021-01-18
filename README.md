@@ -59,7 +59,7 @@ ______________________________________________________
 |            | *Arvid Lundervold*                                        |               |
 |            |                                                           |               |
 |**Mon, January 18**|                                                 |               |
-|10:15-12:00 | Perspectives on medical AI:  innovation, education, epistemology, ethics and impact <br> [slides-perspectives](https://hvl365-my.sharepoint.com/:p:/g/personal/allu_hvl_no/EWHgBpjjkZ9PnFHe36jSBSIBFRA9-FIEEnl2EjFRIYQwfQ?e=JpBrMI), &nbsp; [video-perspectives](tba)                           | Join in Zoom  |
+|10:15-12:00 | Perspectives on medical AI:  innovation, education, epistemology, ethics and impact <br> [slides-perspectives](https://hvl365-my.sharepoint.com/:p:/g/personal/allu_hvl_no/EWHgBpjjkZ9PnFHe36jSBSIBFRA9-FIEEnl2EjFRIYQwfQ?e=JpBrMI), &nbsp; [video-perspectives](https://youtu.be/7zzOmS2hsZE)                           | Join in Zoom  |
 |            | *Arvid Lundervold / Alexander Selvikvåg Lundervold*       |               |
 |            |                                                           |               |
 |**Wed, January 27** |                                             |               |
