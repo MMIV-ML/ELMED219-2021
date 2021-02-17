@@ -9,7 +9,7 @@ During the course you will gain insight into computationally oriented thinking, 
 
 We meet concepts such as **big data**, **data analysis**, **machine learning**, and **artificial intelligence (AI)**, with examples from personalized and predictive medicine. You will use methods and tools from numerical programming, data analysis and "scientific computing" for medical applications, and learn about the importance of **open science**, **data sharing**, and **reproducible research**.
 
-You will find more static and student-specific information (incl Zoom invitations) about the course at [MittUiB](https://mitt.uib.no/courses/27607).
+You will find more static and student-specific information about the course at [MittUiB](https://mitt.uib.no/courses/27607).
 
 <img src="./assets/questions.jpg" width="70">
 
